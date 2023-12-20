@@ -46,7 +46,7 @@ To experience the Food and Beverage Ordering MiniApp:
 
 - **Telegram Web API**: Leveraging Telegram's capabilities to create a seamless and interactive ordering experience.
   
-- **Node.js and Express**: Powering the backend server to handle user requests, process orders, and manage the overall functionality.
+- **Node.js + ReactJs and Express**: Powering the backend server to handle user requests, process orders, and manage the overall functionality.
 
 - **MongoDB**: Storing user profiles, order history, and other essential data.
 
