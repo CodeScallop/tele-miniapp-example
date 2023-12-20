@@ -1,8 +1,8 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = "6422930119:AAHWIKEqdgKQAUt13wcIcnO6L9ZPa5JepgY";
+const TOKEN = "BOT_TOKEN";
 const bot = new Telegraf(TOKEN);
 
-const web_link = "https://6582bda0638b5515a3cda77d--jovial-concha-8427ed.netlify.app/";
+const web_link = "<YOUR_BUILD_URL>";
 
 bot.start((ctx) =>
   ctx.reply("Welcome to pichtranshop", {
